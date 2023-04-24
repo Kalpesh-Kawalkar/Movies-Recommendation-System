@@ -13,3 +13,6 @@ The web interface is created using streamlit, an open-source app framework in Py
 
 ## Dataset: 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+## Project SnapShot:
+https://movies-recommendation-system.streamlit.app/
