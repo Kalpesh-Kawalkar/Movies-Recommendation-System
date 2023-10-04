@@ -16,3 +16,5 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Project SnapShot:
 https://movies-recommendation-system.streamlit.app/
+## Run the Application Locally
+streamlit run app.py
